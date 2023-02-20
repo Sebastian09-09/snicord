@@ -50,7 +50,7 @@ Sniper for the most popular discord bots!
 * Stays online 24/7~ in replit (might experience a few downtimes, depends on replit, will start again shortly) <br>
 </details>
 
-join our discord server to get the sniper :-
+Join our discord server to get the sniper :-
 https://discord.gg/8GJcu85ReS <br>
 Check the yt video here :- 
 https://www.youtube.com/watch?v=U_fwlVzK5JI
