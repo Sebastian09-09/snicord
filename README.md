@@ -5,9 +5,9 @@ Sniper for the most popular discord bots!
 <details>
 <summary>Bronze Tier</summary>
 <br>
-- Snipes Anigame/Izzi Cards (on/off)
-- Snipes only where you want it to (add/remove channels being sniped manually using in-discord commands)
-- Get Claimed Card Alerts in Discord (on/off) (does not mention/ping)
+-Snipes Anigame/Izzi Cards (on/off)
+-Snipes only where you want it to (add/remove channels being sniped manually using in-discord commands)
+-Get Claimed Card Alerts in Discord (on/off) (does not mention/ping)
 </details>
 
 <details>
