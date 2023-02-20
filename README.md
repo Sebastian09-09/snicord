@@ -2,10 +2,29 @@
 Sniper for the most popular discord bots!
 ## (anzi) sniper for anigame and izzi 
 
-> Bronze Tier
-> Silver Tier
-> Gold Tier
-> Platinum Tier
+<details>
+<summary>Bronze Tier</summary>
+<br>
+  Bronze Tier
+</details>
+
+<details>
+<summary>Silver Tier</summary>
+<br>
+  Silver Tier
+</details>
+
+<details>
+<summary>Gold Tier</summary>
+<br>
+  Gold Tier
+</details>
+
+<details>
+<summary>Platinum Tier</summary>
+<br>
+  Platinum Tier
+</details>
 
 join our discord server to get the sniper :-
 https://discord.gg/8GJcu85ReS <br>
