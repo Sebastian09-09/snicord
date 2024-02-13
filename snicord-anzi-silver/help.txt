@@ -1,0 +1,30 @@
+snicord (anzi) silver
+
+
+Features:-
+- Snipes Anigame/Izzi Cards (on/off)
+- Snipes only where you want it to (add/remove channels being sniped using in-discord commands)
+- Get Claimed Card Alerts (on/off)  (does not mention/ping)
+- In-Discord Usable Commands 
+- Custom Latency before claiming a Card (on/off)/(seconds) 
+- Anigame/Izzi Hourly/Lottery Commands after a specific time interval (on/off) (interval cannot be changed)
+
+
+Commands:-
+- set latency {latency_in_seconds}
+- set prefix {new_prefix}
+- toggle latency 
+- toggle anigame sniper
+- toggle izzi sniper
+- toggle anigame hourly
+- toggle izzi hourly
+- toggle anigame lottery 
+- toggle izzi lottery 
+- add chan anigame {channel_id} {channel_name}
+- add chan izzi {channel_id} {channel_name}
+- rem chan anigame {channel_id}
+- rem chan izzi {channel_id}
+- chans anigame
+- chans izzi
+- settings 
+- exit

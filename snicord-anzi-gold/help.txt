@@ -1,0 +1,49 @@
+snicord (anzi) gold
+
+
+Features:-
+- Snipes Anigame/Izzi Cards (on/off)
+- Snipes only where you want it to (add/remove channels being sniped using in-discord commands)
+- Get Claimed Card Alerts (on/off)  (does mention/ping according to rarity settings )
+- In-Discord Usable Commands 
+- Custom Latency before claiming a Card (on/off)/(seconds) 
+- Anigame/Izzi Hourly/Lottery/bt all Commands after a variable time interval (on/off) (interval can be changed)
+- Controller Account 
+- Custom Spammer works on multiple channels (on/off) 
+
+
+Commands:-
+- say {message}
+- spam {channel_id}
+- stop spam {channel_id}
+- set spam {spam_delay_in_seconds}
+- set latency {latency_in_seconds}
+- set prefix {new_prefix}
+- set anigame hourly interval {interval_in_seconds}
+- set izzi hourly interval {interval_in_seconds}
+- set anigame lottery interval {interval_in_seconds}
+- set izzi lottery interval {interval_in_seconds}
+- set anigame bt all interval {interval_in_seconds}
+- set izzi bt all interval {interval_in_seconds}
+- toggle latency 
+- toggle anigame sniper
+- toggle izzi sniper
+- toggle anigame hourly
+- toggle izzi hourly
+- toggle anigame lottery 
+- toggle izzi lottery 
+- toggle anigame bt all 
+- toggle izzi bt all 
+- add chan anigame {channel_id} {channel_name}
+- add chan izzi {channel_id} {channel_name}
+- rem chan anigame {channel_id}
+- rem chan izzi {channel_id}
+- add alert anigame {anigame_rarity}
+- add alert izzi {izzi_rarity}
+- rem alert anigame {anigame_rarity}
+- rem alert izzi {izzi_rarity}
+- alerts
+- chans anigame
+- chans izzi
+- settings 
+- exit

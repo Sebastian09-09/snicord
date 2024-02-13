@@ -1,0 +1,63 @@
+snicord (anzi) platinum
+
+
+Features:-
+- Snipes Anigame/Izzi Cards (on/off)
+- Snipes only where you want it to (add/remove channels being sniped using in-discord commands)
+- Get Claimed Card Alerts (on/off)  (does mention/ping according to rarity settings )
+- In-Discord Usable Commands 
+- Custom Latency before claiming a Card (on/off)/(seconds) 
+- Anigame/Izzi Hourly/Lottery/bt all/rd bt all Commands after a variable time interval (on/off) (interval can be changed)
+- Location/Floor Clearer (on/off)  bt > bt all > fl n (in loop , interval can be changed)
+- Custom Spammer works on multiple channels (on/off)
+- Controller Account 
+- Multiple Accounts Support 
+- Stays online 24/7~ in replit (might experience a few downtimes, depends on replit, will start again shortly) 
+
+
+Commands:-
+- say {message}
+- spam {channel_id}
+- stop spam {channel_id}
+- set spam {spam_delay_in_seconds}
+- set latency {latency_in_seconds}
+- set prefix {new_prefix}
+- set anigame hourly interval {interval_in_seconds}
+- set izzi hourly interval {interval_in_seconds}
+- set anigame lottery interval {interval_in_seconds}
+- set izzi lottery interval {interval_in_seconds}
+- set anigame bt all interval {interval_in_seconds}
+- set izzi bt all interval {interval_in_seconds}
+- set anigame rd bt all interval {interval_in_seconds}
+- set izzi rd bt all interval {interval_in_seconds}
+- set izzi ev bt all interval {interval_in_seconds}
+- set anigame loc cl interval {interval_in_seconds}
+- set izzi loc cl interval {interval_in_seconds}
+- toggle latency 
+- toggle alerts
+- toggle anigame sniper
+- toggle izzi sniper
+- toggle anigame hourly
+- toggle izzi hourly
+- toggle anigame lottery 
+- toggle izzi lottery 
+- toggle anigame bt all 
+- toggle izzi bt all 
+- toggle anigame rd bt all 
+- toggle izzi rd bt all
+- toggle izzi ev bt all 
+- toggle anigame loc cl 
+- toggle izzi loc cl
+- add chan anigame {channel_id} {channel_name}
+- add chan izzi {channel_id} {channel_name}
+- rem chan anigame {channel_id}
+- rem chan izzi {channel_id}
+- add alert anigame {anigame_rarity}
+- add alert izzi {izzi_rarity}
+- rem alert anigame {anigame_rarity}
+- rem alert izzi {izzi_rarity}
+- alerts
+- chans anigame
+- chans izzi
+- settings 
+- exit
