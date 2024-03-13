@@ -4,6 +4,8 @@ import requests
 import time 
 import threading 
 import os 
+from dotenv import load_dotenv
+load_dotenv()
 from rich.console import Console
 console = Console()
 

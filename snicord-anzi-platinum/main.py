@@ -9,6 +9,8 @@ import string
 import os 
 from rich.console import Console
 console = Console()
+from dotenv import load_dotenv
+load_dotenv()
 
 from os import system, name
 def clear():

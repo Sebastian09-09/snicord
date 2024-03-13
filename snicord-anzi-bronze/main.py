@@ -2,6 +2,8 @@ import discum
 import dbm  
 import requests
 import os 
+from dotenv import load_dotenv
+load_dotenv()
 from rich.console import Console
 console = Console()
 
