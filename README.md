@@ -59,7 +59,8 @@ Sniper for the most popular discord bots!
 - to snipe a channel enter its channel id in channels.json , make sure its a list
 
 ## Platinum
-
+- run setup.py and input all the details , it will create a new folder accounts 
+- you can simply run ```python main.py``` then
 
 
 Join our discord server to get the sniper :-
