@@ -50,6 +50,18 @@ Sniper for the most popular discord bots!
 * Stays online 24/7~ in replit (might experience a few downtimes, depends on replit, will start again shortly) <br>
 </details>
 
+# SETUP
+## Bronze\Silver\Gold
+- install the dependencies using ```pip install -r requirements.txt```
+- add your token inside a .env file ```DISCORD_TOKEN='your_token'```
+- inside config.json add a channel id ```"homeChannel": "your_channel_id"```
+- run main.py file ```python main.py```
+- to snipe a channel enter its channel id in channels.json , make sure its a list
+
+## Platinum
+
+
+
 Join our discord server to get the sniper :-
 https://discord.gg/8GJcu85ReS <br>
 Check the yt video here :- 
